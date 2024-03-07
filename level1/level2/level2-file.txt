@@ -1,0 +1,4 @@
+hore][:] Lock 'TRIGGER_ACCESS' is desired by: Catalina-utility-2
+2024-03-06 00:25:43,049 DEBUG [StdRowLockSemaphore][:] Lock 'TRIGGER_ACCESS' is being obtained: Catalina-utility-2
+2024-03-06 00:25:43,248 DEBUG [StdRowLockSemaphore][:] Lock 'TRIGGER_ACCESS' given to: Catalina-utility-2
+2024-03-06 00:25:45,582 DEBUG [StdRowLockSemaphore][:] Lock 'TRIGGER_ACCESS' returned
