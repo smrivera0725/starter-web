@@ -8,3 +8,6 @@ drwxr-xr-x  6 v800712  staff   192 Mar  5 22:32 fonts
 -rw-r--r--  1 v800712  staff  5154 Mar  5 22:32 index.html
 drwxr-xr-x  5 v800712  staff   160 Mar  5 22:32 js
 -rw-r--r--  1 v800712  staff    32 Mar  5 22:32 robots.txt
+
+-rw-r--r--  1 v800712  staff   133 Mar  5 22:32 README.md
+-rw-r--r--  1 v800712  staff  1226 Mar  5 22:32 apple-touch-icon-precomposed.png
