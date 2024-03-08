@@ -13,3 +13,7 @@ simple deployment
 
 ## How to Contribute: Sample website with plenty of files for demos
 contribution section
+
+### Copyright
+
+2014 git training
