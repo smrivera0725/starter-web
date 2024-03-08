@@ -9,5 +9,7 @@ adding intro text
 adding purpose
 
 ## Deployment
+simple deployment
 
 ## How to Contribute: Sample website with plenty of files for demos
+contribution section
