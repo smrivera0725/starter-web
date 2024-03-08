@@ -6,6 +6,7 @@ this is a simple websitre project for git training
 adding intro text
 
 ## Purpose
+adding purpose
 
 ## Deployment
 
