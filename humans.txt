@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stan Rivera stan@a.com @srivera
 
 # THANKS
 
