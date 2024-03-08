@@ -13,6 +13,7 @@ simple deployment
 
 ## How to Contribute: Sample website with plenty of files for demos
 contribution section
+more notes here, fork this repo
 
 ### Copyright
 
