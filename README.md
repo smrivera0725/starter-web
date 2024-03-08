@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+this is a simple websitre project for git training
+
 ## Introduction: This repository is for showing how Git and GitHub work
 
 ## Purpose
