@@ -2,7 +2,7 @@
 
 this is a simple websitre project for git training.  Adding a line
 for rebasing example, then
-more changes from myfeatrure branch too.
+more changes from myfeatrure branch too. doing emregecy fix after stash
 
 ## Introduction: This repository is for showing how Git and GitHub work
 adding intro text
