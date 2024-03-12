@@ -19,4 +19,4 @@ more notes here, fork this repo
 
 ### Copyright
 
-2014 git training
+2014 git training ALL rights reserved
